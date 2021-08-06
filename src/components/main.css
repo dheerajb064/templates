@@ -1,0 +1,18 @@
+.mainContainer{
+    height: 500px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.sendButton{
+    height: 30px;
+    width: 100px;
+    font-size: 20px;
+    background-color: lightblue;
+    color: black;
+    padding: 5px;
+    border: blue;
+    cursor: pointer;
+}
